@@ -2,19 +2,19 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <!--
 ======================================================================
-Carbonight
+Slate
 ======================================================================
-A Sublime Text 2 / Textmate theme.
-Copyright (c) 2012 Dayle Rees.
+ST3/TextMate Theme
+
+Based on CarbonightBlue by Dayle Reese <https://github.com/daylerees/colour-schemes>
+Copyright (c) 2014 Jason Raede
 Released under the MIT License <http://opensource.org/licenses/MIT>
-======================================================================
-Find more themes at : https://github.com/daylerees/colour-schemes
 ======================================================================
 -->
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>Carbonight Blue</string>
+	<string>Slate</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -417,7 +417,5 @@ Find more themes at : https://github.com/daylerees/colour-schemes
 		</dict>
 
 	</array>
-	<key>uuid</key>
-	<string>D8D5E82E-3D5B-46B5-B38E-8C841C21347D</string>
 </dict>
 </plist>
